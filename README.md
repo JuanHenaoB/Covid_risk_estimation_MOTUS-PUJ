@@ -9,5 +9,8 @@ we aim to build an analytical model capable of stratifying the risk of contracti
 
 DashBoards from Step_4 can be accessed through the following links:
 
-https://routerisk.motusscience.com
-https://communityrisk.motusscience.com
+Route Risk estimation: https://routerisk.motusscience.com
+
+Community risk estimation: https://communityrisk.motusscience.com
+
+Motus Science web: https://motusscience.com/
